@@ -1,0 +1,76 @@
+.page-clientes {
+  min-height: 100vh;
+  background: #f4f7fb;
+  padding: 40px 0;
+}
+
+.page-header {
+  margin-bottom: 24px;
+}
+
+.page-title {
+  color: #1e1b4b;
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.page-subtitle {
+  color: #64748b;
+  margin-top: 6px;
+  font-size: 0.98rem;
+}
+
+.card-form {
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.card-form .card-body {
+  padding: 24px;
+}
+
+.section-title {
+  color: #1e1b4b;
+  font-weight: 600;
+  margin-bottom: 18px;
+}
+
+.btn-primary-custom {
+  background-color: #1e3a8a;
+  border: none;
+  color: #fff;
+}
+
+.btn-primary-custom:hover {
+  background-color: #162d6b;
+  color: #fff;
+}
+
+.table-card {
+  border: none;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.table thead th {
+  background-color: #1e1b4b !important;
+  color: #fff !important;
+  border-color: #1e1b4b !important;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #334155;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.form-control:focus {
+  border-color: #1e3a8a;
+  box-shadow: 0 0 0 0.2rem rgba(30, 58, 138, 0.15);
+}
