@@ -31,13 +31,13 @@ XAMPP
 
 🔵 Backend (Laravel)
 
-cd C:\xampp\htdocs\api-clientes
+cd C:\dev\Controle-clientes\backend\api-clientes
 C:\xampp\php\php.exe artisan serve
 
 
 🟢 Frontend (React)
 
-cd C:\dev\clientes-react
+cd C:\dev\Controle-clientes\frontend\clientes-react
 npm install
 npm run dev
 
